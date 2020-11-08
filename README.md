@@ -19,7 +19,7 @@
 
 
 
-![img](./assets/ch0-1.png)
+<img src="./assets/ch0-1.png" />
 
 
 
@@ -27,7 +27,7 @@
 
 
 
-![img](./assets/ch0-2.png)
+<img src="./assets/ch0-2.png" />
 
 
 
@@ -39,7 +39,7 @@
 
 
 
-![img](./assets/ch0-3.png)
+<img src="./assets/ch0-3.png" />
 
 
 
@@ -51,7 +51,7 @@
 
 
 
-![img](./assets/ch0-4.png)
+<img src="./assets/ch0-4.png" />
 
 
 
@@ -77,4 +77,4 @@
 
 第十周是关于数据分析入门，作者先后讨论了**pip安装**第三方包及相关注意事项，**Pandas使用**，**数据可视化**，**网络爬虫**，非常圆满！
 
-![img](./assets/ch0-5.png)
+<img src="./assets/ch0-5.png" />
